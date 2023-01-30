@@ -1,0 +1,859 @@
+.background_image img{
+	color: white;
+	opacity: 0.4;
+
+}
+.highkingicon img{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -910px;
+}
+.navbar{
+
+	margin-left: 180px;
+    position: absolute;
+	margin-top: -900px;
+	font-family: sans-serif;
+	font-weight: bold;
+	}
+	.topnav{
+		
+		overflow: hidden;
+	}
+	.topnav ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	
+	}
+	li{
+		display: inline;
+	}
+	a{
+		text-decoration: none;
+		color: black;
+		
+		
+	}
+	/*.topnav a{
+		flex: 1;
+		text-align: right;
+		color: black;
+		padding: 14px 16px;
+		text-decoration: none;
+
+	}*/
+	.topnav a:hover{
+		color: red;
+	}
+	.headingpage1 h1 {
+		position: absolute;
+		margin-left: 200px;
+	    margin-top: -750px;
+	    font-family: sans-serif;
+	}
+	.headingpage1 p{
+		position: absolute;
+		margin-left: 200px;
+		margin-top: -630px;
+		font-family: sans-serif;
+	}
+	.buttonblue button{
+		position: absolute;
+		margin-left: 230px;
+		margin-top: -580px;
+		background-color: blue;
+		border: 1px solid blue;
+		border-radius: 40px;
+		height: 25px;
+		opacity:1 ;
+		color: white;
+	}
+	.buttonplane button{
+		color: blue;
+		position: absolute;
+		margin-left: 320px;
+		margin-top: -580px;
+		border: 1px solid blue;
+		border-radius: 40px;
+		height: 25px;
+		opacity:0.7 ;
+		font-weight: bold;
+	}
+	.image1 img{
+		position: absolute;
+		margin-left: 600px;
+		margin-top: -800px;
+		border: 1px solid white;
+		border-radius: 120px;
+	}
+	.card{
+		position: absolute;
+		width: 700px;
+		height: 200px;
+		background-color: white;
+		margin-left: 200px;
+		margin-top: -400px;
+		box-shadow: 3px 3px 3px -3px;
+	}
+	.card img{
+		position: absolute;
+		margin-left: 40px;
+		opacity: 0.6;
+	}
+	.card h3{
+		font-family: sans-serif;
+		position: absolute;
+		margin-left: 40px;
+		margin-top: 50px;
+	}
+	.card p{
+		position: absolute;
+		margin-left: 40px;
+		margin-top: 80px;
+	}
+	.card h5{
+		position: absolute;
+		margin-left: 40px;
+		margin-top: 150px;
+		color: red;
+		font-weight: bold;
+	}
+	.shoes img{
+		position: absolute;
+		margin-left: 250px;
+	}
+	.shoes h3{
+		margin-left:250px ;
+		font-family: sans-serif;
+	}
+	.shoes p{
+		position: absolute;
+		margin-left:250px;
+		margin-top: 80px;
+
+	}
+	.shoes h5{
+		position: absolute;
+		margin-left:300px ;
+		margin-top: 150px;
+	}
+	.bag img{
+		position: absolute;
+		margin-left: 500px;
+
+	}
+	.bag h3{
+		position: absolute;
+		margin-left:500px ;
+	}
+	.bag p{
+		position: absolute;
+		margin-left:500px;
+
+	}
+	.bag h5{
+		position: absolute;
+		margin-left: 500px;
+		color: red;
+	}
+	.page2para p{
+		position: absolute;
+		margin-left: 120px;
+		margin-top:250px;
+		opacity: 0.7;
+	}
+	.page2para h4{
+		position: absolute;
+		margin-left:480px;
+		margin-top: 250px;
+		color: red;
+		font-weight: bold;
+		font-family: sans-serif;
+		font-size: 12px;
+	}
+	.bigimage2 img{
+		position: absolute;
+		margin-left: 10px;
+		margin-top: 300px;
+		border: 1px solid white;
+		border-radius:100px 0px 100px 100px ;
+		opacity:1;
+	}
+	.bigimage2 h1{
+		position: absolute;
+		margin-left:500px;
+		margin-top: 350px;
+		font-family: sans-serif;
+		white-space: nowrap;
+
+	}
+	.bigimage2 p{
+		white-space: nowrap;
+		position: absolute;
+		margin-left:500px;
+		margin-top: 470px;
+		font-family: sans-serif;
+	}
+		.bigimage2 button{
+			position: absolute;
+			margin-left:500px ;
+			margin-top: 570px;
+			border: 1px solid blue;
+			color: white;
+			border-radius: 20px;
+			height: 25px;
+			background-color: blue;
+		}
+		.trans img{
+			position: absolute;
+			margin-top: 900px;
+			margin-left: -200px;
+			opacity: 0.4;
+
+		}
+		.safejourney p{
+			position: absolute;
+			margin-top: 700px;
+			margin-left: 400px;
+			color: blue;
+			font-family: sans-serif;
+			opacity: 0.3;
+			font-weight: bold;
+
+		}
+		.trusted p{
+				position: absolute;
+			margin-top: 750px;
+			margin-left: 340px;
+			color: black;
+			font-family: sans-serif;
+			font-weight: bold;
+			font-size: 20px;
+
+		}
+		.travel p{
+				position: absolute;
+			margin-top: 800px;
+			margin-left:220px;
+			color: black;
+			font-family: sans-serif;
+			font-weight: bold;
+			font-size: 20px;
+
+		}
+		.travel p span{
+			color:greenyellow;
+			font-size: 20px;
+		}
+.united p{
+	position: absolute;
+	margin-top: 800px;
+	margin-left: 450px;
+	color: darkblue;
+	font-family: initial;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.united  p span{
+	color: blue;
+	opacity: 0.4;
+}
+.channel p{
+	position: absolute;
+	margin-top: 800px;
+	margin-left: 600px;
+	color: blue;
+	font-family: initial;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+opacity: 0.4;
+}
+.channel p span{
+	color: yellow;
+	opacity: 0.9;
+}
+.trip p{
+		position: absolute;
+	margin-top: 850px;
+	margin-left: 380px;
+	color: blue;
+	font-family:sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.trip p  span{
+	color: red;
+}
+.booking p{
+		position: absolute;
+	margin-top: 850px;
+	margin-left: 480px;
+	color: darkblue;
+	font-family:sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+	opacity: 1;
+
+}
+.booking p  span{
+	position: absolute;
+	color: blue
+}
+.headingpage3 h1{
+		position: absolute;
+	margin-top: 950px;
+	margin-left: 20px;
+	font-family:sans-serif;
+	font-weight: bold;
+
+}
+.headingpage3 button{
+		position: absolute;
+	margin-top: 1120px;
+	margin-left: 20px;
+	font-family:sans-serif;
+	font-weight: bold;
+	border: 1px solid blue;
+	border-radius: 40px;
+	background-color: blue;
+	color: white;
+	height: 25px;
+}
+.headingpage3 p{
+		position: absolute;
+	margin-top: 1030px;
+	margin-left: 20px;
+	font-family:sans-serif;
+	font-size: 12px;
+	color: black;
+
+}
+.image4 img{
+	position: absolute;
+	margin-top: 920px;
+	margin-left: 500px;
+	border: 1px solid white;
+	border-radius: 0px 100px 100px 100px;
+	opacity: 1;
+}
+.image5 img{
+		position: absolute;
+	margin-top: 1350px;
+	margin-left: 30px;
+	border: 1px solid white;
+	border-radius: 100px 00px 100px 100px;
+	opacity: 1;
+
+}
+.headingpage5 p{
+position: absolute;
+	margin-top: 1440px;
+	margin-left: 550px;
+	font-family:sans-serif;
+	font-size: 12px;
+	color: black;
+}
+.headingpage5 h1{
+		position: absolute;
+	margin-top: 1350px;
+	margin-left:550px;
+	font-family:sans-serif;
+	font-weight: bold;
+	white-space: nowrap;
+
+}
+.headingpage5 button{
+		position: absolute;
+	margin-top: 1590px;
+	margin-left: 550px;
+	font-family:sans-serif;
+	font-weight: bold;
+	border: 1px solid blue;
+	border-radius: 40px;
+	background-color: blue;
+	color: white;
+	height: 25px;
+}
+.happyhikers p{
+
+position: absolute;
+	margin-top: 1740px;
+	margin-left: 350px;
+	font-family:sans-serif;
+	font-size: 12px;
+	color: blue;
+	opacity: 0.8;
+}
+.happyhikers h2{
+	position: absolute;
+	margin-top: 1770px;
+	margin-left: 270px;
+	font-family:sans-serif;
+	color: black;
+	opacity: 1;
+}
+.clientcard{
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	margin-top: 1850px;
+	margin-left: 30px;
+	border: 1px solid white;
+	background-color:white;
+border-radius: 0px 0px 100px 0px;
+box-shadow: -10px 10px 10px 10px;
+}
+.clientcard p{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 30px;
+	color: black;
+	opacity: 1;
+	}
+.clientcard2{
+		position: absolute;
+	width: 400px;
+	height: 200px;
+	margin-top: 1850px;
+	margin-left: 280px;
+	border: 1px solid white;
+	background-color:white;
+border-radius: 100px 0px 100px 0px;
+box-shadow: 10px 10px 10px 7px;
+
+}
+.clientcard2 img{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 100px;
+	opacity: 1;
+}
+.clientcard2 p{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 120px;
+	font-size: 20px;
+	opacity: 1;
+}
+.clientcard2 h6{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 146px;
+	opacity: 1;
+	color: red;
+	font-family: sans-serif;
+	font-size: 10px;
+}
+.clientcard2 h5{
+		position: absolute;
+	margin-top: 120px;
+	margin-left: 60px;
+	opacity: 1;
+	color: black;
+	font-family: sans-serif;
+	font-size: 10px;
+
+}
+.clientcard3{
+		position: absolute;
+	width: 150px;
+	height: 200px;
+	margin-top: 1850px;
+	margin-left: 800px;
+	border: 1px solid white;
+	background-color:white;
+border-radius: 100px 0px 00px 0px;
+box-shadow: -10px 10px 10px 10px;
+
+}
+.clientcard3 h6{
+		position: absolute;
+	margin-top: 100px;
+	margin-left: 15px;
+	color: black;
+	opacity: 1;
+	font-family: sans-serif;
+	font-size: 12px;
+
+}
+.clientcard3 img{
+		position: absolute;
+	margin-left: 30px;
+	margin-top: 30px;
+	opacity: 0.2;
+
+}
+.star img{
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 2005px;
+	opacity: 1;
+}
+.comma img{
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 1870px;
+	opacity: 0.2;
+
+}
+.carousels{
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: blue;
+	margin-top: 2100px;
+	margin-left: 430px;
+	opacity: 1;
+	border: 1px solid blue;
+	border-radius: 100px;
+}
+.carousels2{
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: blue;
+	margin-top: 2100px;
+	margin-left: 445px;
+	opacity: 0.6;
+	border: 1px solid blue;
+	border-radius: 100px;
+}
+.carousels3{
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: blue;
+	margin-top: 2100px;
+	margin-left: 460px;
+	opacity: 0.3;
+	border: 1px solid blue;
+	border-radius: 100px;
+}
+.lastpagebackground{
+	position: absolute;
+	display: flex;
+	width: 1330px;
+	height: 600px;
+	margin-top: 2150px;
+	margin-left: -200px;
+	background-color: blue;
+	opacity: 0.1;
+}
+.lastheading h1{
+	position: absolute;
+	margin-top: 2200px;
+	margin-left: 270px;
+	white-space: nowrap;
+	font-family: sans-serif;
+
+}
+.lastheading p{
+		position: absolute;
+	margin-top: 2300px;
+	margin-left: 280px;
+	white-space: nowrap;
+	font-family: sans-serif;
+	opacity: 0.6;
+}
+.lasttext {
+		position: absolute;
+	margin-top: 2380px;
+	margin-left: 280px;
+	border: 1px solid blue;
+	border-radius: 20px;
+	width: 280px;
+	height: 30px;
+	opacity: 1;
+}
+.lasttext p{
+		position: absolute;
+	margin-top: 8px;
+	margin-left: 60px;
+	opacity: 1;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.lastbutton button{
+	position: absolute;
+	margin-top:2380px;
+	margin-left: 580px;
+	height: 30px;
+	width: 100px;
+	opacity: 1;
+    font-size: 12px;
+    white-space: nowrap;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 20px;
+
+}
+.email img{
+		position: absolute;
+	margin-top:2385px;
+	margin-left: 300px;
+	opacity:0.4;
+
+}
+
+.redtick{
+	width: 20px;
+	height: 15px;
+	position: absolute;
+	background-color: red;
+	margin-top: 14px;
+	margin-left: 265px;
+	border: 1px red;
+	border-radius: 100px;
+	opacity: 0.2;
+}
+.redtick2{
+	width: 25px;
+	height: 20px;
+	position: absolute;
+	background-color: red;
+	margin-top: 12px;
+	margin-left: 45px;
+	border: 1px red;
+	border-radius: 100px;
+	opacity: 0.2;
+}
+.redtick3{
+	width: 25px;
+	height: 20px;
+	position: absolute;
+	background-color: red;
+	margin-top: 10px;
+	margin-left: 510px;
+	border: 1px red;
+	border-radius: 100px;
+	opacity: 0.2;
+}
+.highkingimage2 img{
+		position: absolute;
+	margin-top:2440px;
+	margin-left: 15px;
+	opacity:0.2;
+
+}
+.imageheading1 h3{
+			position: absolute;
+	margin-top:2460px;
+	margin-left: 60px;
+	opacity:1;
+	font-family: sans-serif;
+	font-weight: bold;
+
+}
+.imageheading1 p{
+			position: absolute;
+	margin-top:2490px;
+	margin-left: 20px;
+	opacity:0.5;
+
+}
+.facebook img{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-top: 2550px;
+	margin-left:20px ;
+	border-radius: 100px;
+	opacity:1;
+}
+.twitter img{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-top: 2550px;
+	margin-left:80px ;
+	border-radius: 100px;
+	opacity:0.7;
+
+}
+.instagram img{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-top: 2550px;
+	margin-left:140px ;
+	border-radius: 100px;
+	opacity: 0.7;
+}
+
+.Location h3{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-top: 2450px;
+	margin-left:430px ;
+
+}
+.Location p{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-top: 2500px;
+	margin-left:430px ;
+
+}
+.Location h2{
+	position: absolute;
+	font-size: 13px;
+	width: 40px;
+	height: 40px;
+	margin-top: 2540px;
+	margin-left:430px ;
+	opacity: 0.4;
+	font-family: sans-serif;
+
+}
+.Location h4{
+	position: absolute;
+	font-size: 13px;
+	width: 40px;
+	height: 40px;
+	margin-top: 2580px;
+	margin-left:430px ;
+	opacity: 0.4;
+	font-family: sans-serif;
+
+}
+.Location h6{
+	position: absolute;
+	font-size: 13px;
+	width: 40px;
+	height: 40px;
+	margin-top: 2620px;
+	margin-left:430px ;
+	opacity: 0.4;
+	font-family: sans-serif;
+}
+.Contact h1{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+	margin-top: 2450px;
+	margin-left:630px ;
+}
+.Contact p{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 12px;
+	margin-top: 2500px;
+	margin-left:630px ;
+	white-space: nowrap;
+}
+.Contact h3{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 12px;
+	margin-top: 2540px;
+	margin-left:630px ;
+	white-space: nowrap;
+	opacity: 0.4;
+}
+.Contact h4{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 12px;
+	margin-top: 2580px;
+	margin-left:630px ;
+	white-space: nowrap;
+	opacity: 0.4;
+}
+.Contact h5{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 12px;
+	margin-top: 2620px;
+	margin-left:630px ;
+	white-space: nowrap;
+	opacity: 0.4;
+}
+.Contact h6{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 12px;
+	margin-top: 2620px;
+	margin-left:630px ;
+	white-space: nowrap;
+	opacity: 0.4;
+}
+.logics h1{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+	margin-top: 2450px;
+	margin-left:800px ;
+	white-space: nowrap;
+}
+.logics h2{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 13px;
+	margin-top: 2500px;
+	margin-left:800px ;
+	white-space: nowrap;
+	opacity: 0.4;
+	font-family: sans-serif;
+}
+.logics h3{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 13px;
+	margin-top: 2537px;
+	margin-left:800px ;
+	white-space: nowrap;
+	opacity: 0.4;
+	font-family: sans-serif;
+}
+.logics h4{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 13px;
+	margin-top: 2580px;
+	margin-left:800px ;
+	white-space: nowrap;
+	opacity: 0.4;
+	font-family: sans-serif;
+}
+.logics h5{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	font-size: 13px;
+	margin-top: 2620px;
+	margin-left:800px ;
+	white-space: nowrap;
+	color:black;
+	opacity: 0.4;
+	font-family: sans-serif;
+}
+@media screen and(max-width:600px){
+	.headingpage1 h1{
+		font-size: 20px;
+
+	}
+}
+	
+
+
+
